@@ -1,0 +1,2 @@
+class DriverPhone < ApplicationRecord
+end
